@@ -1,0 +1,190 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.noticias{
+  width: 100%;
+}
+
+.people{
+  width:100%;
+}
+
+.media{
+  height: 140px;
+}
+
+.card{
+  max-width: 345px;
+  float:left;
+  margin-left: 30px;
+}
+
+.MuiExpansionPanelSummary-content-38{
+  display: block !important;
+}
+
+.MuiTypography-body1-52{
+
+  font-size: 15px !important;
+
+}
+
+.MuiExpansionPanelSummary-content-38{
+  background-color:
+}
+
+.titular{
+  font-weight: bold !important;
+  text-align: left !important;
+}
+
+
+.header{
+  margin-top: 15px;
+  background-color: #449DD5;
+  font-weight: bold;
+  color: white;
+  height: 40px;
+  margin-bottom: 15px;
+}
+
+.title-header{
+  vertical-align: center !important;
+}
+
+.components-news{
+
+}
+
+.css-1bts2wl{
+  font-size: 12px !important;
+}
+
+.css-1akoisy .DayPickerInput input{
+  font-size: 12px !important;
+}
+
+.css-14pyrcn{
+  font-size: 12px !important;
+}
+
+.new{
+  text-align: justify;
+}
+
+.headline{
+  font-size: 30px;
+}
+
+.text-new{
+  font-size:12px;
+}
+
+.maps{
+  width: 100px !important;
+  height: 100px !important;
+}
+
+
+
+
+
+
+
+/*Barra navegacion noticia */
+.MuiBottomNavigation-root-130{
+}
+
+.MuiBottomNavigationAction-root-131.MuiBottomNavigationAction-selected-132{
+  color: #449DD5 !important;
+}
+
+.MuiBottomNavigationAction-root-131{
+  color: grey !important;
+}
+
+.MuiExpansionPanelSummary-expanded-35{
+  background-color:#8ec4e5 !important;
+}
+
+
+
+/* Componente personas */
+
+.people-root{
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content:space-around !important;
+  overflow: hidden !important;
+  background-color: white;
+}
+
+.people-text{
+  font-size: 12px !important;
+}
+
+.people-gridlist{
+  width: 100%;
+  height: 400px;
+}
+
+.people-icon{
+    color: rgba(255, 255, 255, 0.54);
+}
+
+.MuiGridListTileBar-title-148{
+  font-size: 12px !important;
+}
+
+.MuiBottomNavigationAction-label-135{
+  font-size: 12px !important;
+}
+
+.MuiGridListTileBar-subtitle-149{
+  font-size: 14px !important;
+}
+
+.news-chip{
+  margin-left: 5px;
+  margin-top: 5px;
+  background-color: 	#9dd544 !important;
+  color: white !important;
+  font-size: 11px !important;
+}
+
+
+.image-new{
+  background-color:#8ec4e5 !important;
+  height: 100% !important;
+}
+
+.image-prueba{
+  width: 50px;
+  height: 50px;
+}
